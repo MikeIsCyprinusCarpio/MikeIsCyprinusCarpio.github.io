@@ -1,33 +1,22 @@
 ---
 layout: default
-title: Mike Chen
-description: 个人主页
+title: Junyang Chen
+description: Junyang Chen · Spirit AI · 具身智能
 ---
 
-<!-- 修改下面的文字即可更新主页。支持 Markdown，可自由增删栏目。 -->
+# Junyang Chen
 
-# Mike Chen
-
-在这里填写一句话介绍。
+Spirit AI · Agent · 具身智能
 
 ## 关于我
 
-在这里介绍你的经历、工作或研究兴趣。
+我目前在 Spirit AI 从事 Agent 研究，关注具身智能。
 
-## 项目
+## 经历
 
-### 项目名称
+- **2026—至今** · Spirit AI，Agent，Researcher
+- **2017—2020** · 浙江大学机械工程学院，硕士阶段学习
 
-在这里填写项目介绍，以及你在项目中的工作。
+## 链接
 
-<!-- 添加链接的写法：[项目链接](https://example.com) -->
-
-## 文章与分享
-
-在这里添加文章、论文或分享。
-
-## 联系方式
-
-[GitHub](https://github.com/MikeIsCyprinusCarpio)
-
-<!-- 如需公开邮箱，可添加：[Email](mailto:your-email@example.com) -->
+[GitHub](https://github.com/MikeIsCyprinusCarpio) · [OpenReview](https://openreview.net/profile?id=~Junyang_Chen15)
